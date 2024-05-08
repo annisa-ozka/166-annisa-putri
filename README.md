@@ -1,7 +1,6 @@
-# Personal Project JDA
 <h3> Nama : Annisa Putri </h3>
-Judul : Website Layanan Make Up
-Deskripsi Project : 
+<h3>Judul : Website Layanan Make Up</h3>
+<h3>Deskripsi Project : </h3>
 Website ini dapat menampilkan jenis layanan makeup, harga yang disediakan, informasi kontak mua, dan melakukan booking jasa make up. Berikut rincian fiturnya :
 1. Terdapat 2 user yaitu pelanggan dan admin(mua), yang dapat melakukan login dengan username-password dan pelanggan dapat melakukan registrasi sedangkan admin tidak perlu.
 2. Pelanggan dapat melihat beberapa fitur tanpa login seperti; jenis layanan make up dan harganya, testimoni, profil mua serta informasi kontaknya, tapi apabila ingin melakukan pemesanan pelanggan harus login/registrasi akun terlebih dahulu.
