@@ -1,2 +1,5 @@
-# 166-annisa-putri
-Personal Project JDA
+# Personal Project JDA
+# Nama : Annisa Putri
+# Judul : Website Layanan Makeup
+Deskripsi Project :
+
