@@ -1,5 +1,5 @@
 # Personal Project JDA
-Nama : Annisa Putri
+<h3> Nama : Annisa Putri </h3>
 Judul : Website Layanan Make Up
 Deskripsi Project : 
 Website ini dapat menampilkan jenis layanan makeup, harga yang disediakan, informasi kontak mua, dan melakukan booking jasa make up. Berikut rincian fiturnya :
